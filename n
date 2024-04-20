@@ -1,0 +1,25 @@
+hello
+how are yoii
+a = pow(2,3,)
+# print(a)
+ 
+ b = pow(4,5,9)
+ print(b)
+ 
+ # Import the math package
+import math 
+
+# Definition of radius
+r = 0.43
+
+
+# Calculate C
+C = 2 *(math.pi * 0.43)
+
+# Calculate A
+A = math.pi *0.43**2
+
+# Build printout
+print("Circumference: " + str(C))
+print("Area: " + str(A))2
+hello I love you
